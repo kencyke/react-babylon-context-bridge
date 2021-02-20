@@ -1,3 +1,11 @@
+# Demo
+
+Inspired by https://codesandbox.io/s/jotai-r3f-fri9d
+
+<img src="https://github.com/kencyke/react-babylon-context-bridge/blob/main/react-babylon-context-bridge.gif" width="300">
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
